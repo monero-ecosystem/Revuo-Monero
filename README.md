@@ -7,6 +7,7 @@ Anyone wishing to translate the Revuo will need to download the open-source desk
 If you want the Revuo to look the same as the original, you're going to need to install some fonts that may not be included standard on your computer. Don't worry, all of the fonts are free. You can find them at [Font Squirrel](https://www.fontsquirrel.com/) I list them below:
 
 - Bebas Neue
+- Cooper Hewitt
 - Arimo
 - PT Sans
 
