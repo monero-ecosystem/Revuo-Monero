@@ -324,7 +324,20 @@
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="In addition, work to add subaddresses to the GUI wallet is under way as well, though a release date for this feature is not yet available."/>
-            <trail ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para/>
+            <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Vulenerability Response"/>
+            <para ALIGN="3" LINESP="16"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="Although technically a workgroup in its own right, the Vulnerability Response group is included here because they don't generate enough content for their own section (the response team is new), but their work is invaluable to the continued security and development of Monero. The Monero Project is committed to providing secure and vetted privacy software, which includes receiving and mititgating reports of potential vulnerabilities in both Monero and Kovri from bounty hunters. You can learn more at hackerone.com/monero to see the great work done by "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="anonimal"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH=", "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="luigi1111"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH=", "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="fluffypony"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH=", and "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="moneromooo"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="."/>
+            <trail ALIGN="3" LINESP="13"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="545.191666666666" YPOS="1708" WIDTH="117.146666666667" HEIGHT="14.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="445.706666666666" gYpos="806.11" gWidth="562.853333333333" gHeight="820.61" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -454,7 +467,7 @@
         <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="287.8533333" YPOS="5405.45" WIDTH="375" HEIGHT="108" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Italic" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 375 0 375 0 375 0 375 0 375 108 375 108 375 108 375 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 375 0 375 0 375 0 375 0 375 108 375 108 375 108 375 108 0 108 0 108 0 108 0 108 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="PT Sans Italic" FONTSIZE="11" CH="Monerujo is a fairly recent workgroup led by "/>
             <ITEXT FONT="PT Sans Bold Italic" FONTSIZE="11" CH="m2049r"/>
-            <ITEXT FONT="PT Sans Italic" FONTSIZE="11" CH=" and his renegade band of Monero pirates. They hold the achievement of being the first group to bring a fully-featured light wallet to Android phones, and are looking to expand even further into other areas. Their success sets an example for other workgroups to come."/>
+            <ITEXT FONT="PT Sans Italic" FONTSIZE="11" CH=" and his renegade band of Monero pirates. They hold the achievement of being the first group to bring a fully-featured SPV wallet to Android phones, and are looking to expand even further into other areas. Their success sets an example for other workgroups to come."/>
             <trail ALIGN="4"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -553,13 +566,32 @@
             <trail ALIGN="3" LINESP="13"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="132.94166665" YPOS="2923.78" WIDTH="529.3966667" HEIGHT="391.89" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 529.397 0 529.397 0 529.397 0 529.397 0 529.397 391.89 529.397 391.89 529.397 391.89 529.397 391.89 0 391.89 0 391.89 0 391.89 0 391.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 529.397 0 529.397 0 529.397 0 529.397 0 529.397 391.89 529.397 391.89 529.397 391.89 529.397 391.89 0 391.89 0 391.89 0 391.89 0 391.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="132.94166665" YPOS="2923.78" WIDTH="529.3966667" HEIGHT="538.72" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 529.397 0 529.397 0 529.397 0 529.397 0 529.397 538.72 529.397 538.72 529.397 538.72 529.397 538.72 0 538.72 0 538.72 0 538.72 0 538.72 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 529.397 0 529.397 0 529.397 0 529.397 0 529.397 538.72 529.397 538.72 529.397 538.72 529.397 538.72 0 538.72 0 538.72 0 538.72 0 538.72 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Kovri Project Assistant"/>
+            <para ALIGN="3" LINESPMode="0" LINESP="16"/>
+            <ITEXT FONTSIZE="10" CH="The last quarter of the year saw website contributor "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
+            <ITEXT FONTSIZE="10" CH=" join the Kovri project as the project assistant manager. Funded by the community via the Forum Funding System, "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
+            <ITEXT FONTSIZE="10" CH=" is responsible for website upkeep (a refresh of the Kovri website is underway and should launch within the first month of the year), developer outreach, education, and collaboration with the translation workgroup. "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="Rehrar"/>
+            <ITEXT FONTSIZE="10" CH=" moved from working quarter time to half time in 2018."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="13"/>
+            <ITEXT FONTSIZE="10" CH="Developer outreach began with several universities being contacted toward the end of the year. Unfortunately, it was too late in the semester for students to seriously consider taking on new projects, but bridges have been built and the outreach will resume in 2018."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="16"/>
             <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Development"/>
             <para ALIGN="3" LINESP="16"/>
             <ITEXT FONTSIZE="10" CH="Kovri continues to move forward on the development front as we march ever closer to the Alpha release. We summarize a few of the developments in Kovri below:"/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3" LINESP="13"/>
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="A stable testnet is available wherein Kovri contributors can host their own mini-Kovri network locally, so as to test for leaks and bugs without needing to connect to the I2P network at large, or even need internet access at all. It provides a testbed where changes can be vigorously vetted before making it into the main branch, as well as opens up options for security testing without interfering with a parallel running main i2p net. Other benefits include allowing for work to continue offline as well as preventing accidental anonymity leaks while testing (since Kovri is still pre-alpha) for contributors who wish to remain anonymous."/>
+            <ITEXT FONTSIZE="10" CH="This Q4, kovri saw not one but two i2pd 0days, which are  software bugs which are a severe threat that can be exploited, like OpenSSL's Heartbleed. Since "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="anonimal"/>
+            <ITEXT FONTSIZE="10" CH=" had &quot;lost track after 7&quot; count of 0days in i2pd code, he has re-affirmed his stance that all i2pd code must be removed from the kovri code base. This will take more time, but ensures a quality codebase and a minimal attack surface."/>
+            <para ALIGN="3" LINESP="13"/>
+            <para ALIGN="3" LINESP="13"/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="A stable testnet is available wherein Kovri contributors can host their own mini-Kovri network locally, so as to test for leaks and bugs without needing to connect to the I2P network at large, or even need internet access at all. It provides a testbed where changes can be vigorously vetted before making it into the main branch, as well as opens up options for security testing without interfering with a parallel running main I2P net. Other benefits include allowing for work to continue offline for contributors who wish to remain off the internet during testing"/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3" LINESP="13"/>
             <ITEXT FONTSIZE="10" CH="Another area of development has been the construction of a prelimiary API. This is essential for third-party applications, such as Monero, that want to connect to the I2P network using the Kovri router in the future. With these first steps taken into the creation of the API, the promised future of Monero's continued privacy seems brighter than ever."/>
@@ -568,25 +600,24 @@
             <ITEXT FONTSIZE="10" CH="The above mentioned work are merely highlights of the past quarter. For information on further work completed, please see the Kovri repository on Github."/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3" LINESP="13"/>
-            <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Kovri assistant"/>
-            <para ALIGN="3" LINESPMode="0" LINESP="16"/>
-            <ITEXT FONTSIZE="10" CH="The last quarter of the year saw website contributor "/>
-            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
-            <ITEXT FONTSIZE="10" CH=" join the Kovri project as the project assistant manager. Funded by the community via the Forum Funding System, "/>
-            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
-            <ITEXT FONTSIZE="10" CH=" is responsible for website upkeep (a refresh of the Kovri website is underway and should launch within the first month of the year), developer outreach, education, and collaboration with the translation workgroup for the easy translation of all Kovri materials. "/>
-            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="Rehrar"/>
-            <ITEXT FONTSIZE="10" CH=" moved from quarter time to half time for the first quarter of 2018."/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="3" LINESP="13"/>
-            <ITEXT FONTSIZE="10" CH="Developer outreach has commenced with several universities being contacted toward the end of the year. Unfortunately, it was too late in the semester for students to seriously consider taking on new projects, but bridges have been built and university outreach will resume in 2018."/>
-            <para ALIGN="3" LINESP="13"/>
-            <para ALIGN="3" LINESP="13"/>
-            <ITEXT CH="Vulnerability Response"/>
+            <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Research / Review / Collaboration"/>
             <para ALIGN="3" LINESP="16"/>
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="Part of "/>
+            <ITEXT FONTSIZE="10" CH="As a budding anonymity technology, Kovri has decided since its inception to be at the forefront of all technological anonymity advancements. Time is set aside specifically for review of papers, new technologies, and other research related to mixnet tech. As well, in order for Kovri to be secure, all pull requests must be vigorously reviewed, especially those of newcomers, keeping the level of trust at a mimimum. Lastly, Kovri has collaborated with the Monero Project at large on several fronts, including the Monero Translation workgroup, the Monero Research Lab, and the development team, not to mention close collaboration with software dependencies like Crypto++ to ensure secure software. "/>
+            <para ALIGN="3" LINESP="13"/>
+            <para/>
+            <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" SCALEH="100" BASEO="25" KERN="10" CH="Contributors"/>
+            <para ALIGN="3" LINESP="16"/>
+            <ITEXT FONTSIZE="10" CH="The Kovri project would like to thank all contributors who have given of their time, energy, resources, and money to Kovri in this past quarter. In particular, they would like to highlight "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="anonimal"/>
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" CH="'s work is working with the HackerOne account that Monero has set up, for use with both Kovri and Monero. A bug was reported via the HackerOne that Kovri chose to act on. There were some rough patches with working with the bug reporter, but in the end it was a learning experience for all involved, and some of the bounty rules were updated as a result. Kovri continues to look forward with bug bounty hunters after it releases."/>
+            <ITEXT FONTSIZE="10" CH=" for always going above and beyond, "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
+            <ITEXT FONTSIZE="10" CH=" for his continued and enthusiastic support, and "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="MoroccanMalinois"/>
+            <ITEXT FONTSIZE="10" CH=" for his contributions. Kovri would also like to extend a hearty welcome to the newest recruits, "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="selsta"/>
+            <ITEXT FONTSIZE="10" CH=" and "/>
+            <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="oneiric"/>
+            <ITEXT FONTSIZE="10" CH=". We look forward to their contributions, and are pleased to have them in the Kovri family."/>
             <trail ALIGN="3" LINESP="13"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -631,7 +662,7 @@
             <para ALIGN="3" LINESP="16"/>
             <ITEXT FONTSIZE="10" CH="Monerujo started when "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="m2049r"/>
-            <ITEXT FONTSIZE="10" CH=", a relative newcomer to the Monero community, posted on Reddit in August about working on an Android wallet. Over the coming months, he single-handedly succeeded in completing a fully functioning light wallet and getting it onto the Google Play Store as beta software."/>
+            <ITEXT FONTSIZE="10" CH=", a relative newcomer to the Monero community, posted on Reddit in August about working on an Android wallet. Over the coming months, he single-handedly succeeded in completing a fully functioning SPV wallet and getting it onto the Google Play Store as beta software."/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="It wasn't long before a team started to form around Monerujo, including UX/UI designers, graphic designers, copywriters, and project managers that made the next release not only functional, but accessible and aesthetically pleasing. "/>
@@ -712,22 +743,9 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="100.14" YPOS="3329" WIDTH="595" HEIGHT="178.33" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Monero Orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 595 0 595 0 595 0 595 0 595 178.33 595 178.33 595 178.33 595 178.33 0 178.33 0 178.33 0 178.33 0 178.33 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 595 0 595 0 595 0 595 0 595 178.33 595 178.33 595 178.33 595 178.33 0 178.33 0 178.33 0 178.33 0 178.33 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="545.1916667" YPOS="3478.78" WIDTH="117.1466667" HEIGHT="14.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="9" FCOLOR="White" CH="Revuo Monero | Page 4"/>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="545.19166665" YPOS="3471.78" WIDTH="117.1466667" HEIGHT="14.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 117.147 0 117.147 0 117.147 0 117.147 0 117.147 14.5 117.147 14.5 117.147 14.5 117.147 14.5 0 14.5 0 14.5 0 14.5 0 14.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="9" FCOLOR="Black" CH="Revuo Monero | Page 4"/>
             <trail ALIGN="2"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="131.85708334" YPOS="3361.205" WIDTH="531.56583332" HEIGHT="112.42" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="PT Sans Italic" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 531.566 0 531.566 0 531.566 0 531.566 0 531.566 112.42 531.566 112.42 531.566 112.42 531.566 112.42 0 112.42 0 112.42 0 112.42 0 112.42 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 531.566 0 531.566 0 531.566 0 531.566 0 531.566 112.42 531.566 112.42 531.566 112.42 531.566 112.42 0 112.42 0 112.42 0 112.42 0 112.42 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <para ALIGN="3"/>
-            <ITEXT FONT="PT Sans Bold" FONTSIZE="24" FCOLOR="White" CH="HELP WANTED"/>
-            <para ALIGN="1"/>
-            <para ALIGN="3"/>
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="11" FCOLOR="White" CH="While Kovri continues to make good progress toward release, there is much work to be done. And even after the alpha release, there's much to do to prepare and release beta. The Kovri team would be thrilled to have more hands of any skill level get involved. With this in mind, Kovri is giving an official call to any interested individuals or groups to join us in the development of keeping Monero, and indeed the Internet, a safe and private place. Join our IRC channels in #kovri and #kovri-dev with questions about how to get involved."/>
-            <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="488" YPOS="617.16" WIDTH="173.5" HEIGHT="172.84" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0384088888888889" LOCALSCY="0.0384088888888889" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Pictures/monero_core.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 173.5 0 173.5 0 173.5 0 173.5 0 173.5 172.84 173.5 172.84 173.5 172.84 173.5 172.84 0 172.84 0 172.84 0 172.84 0 172.84 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 173.5 0 173.5 0 173.5 0 173.5 0 173.5 172.84 173.5 172.84 173.5 172.84 173.5 172.84 0 172.84 0 172.84 0 172.84 0 172.84 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
