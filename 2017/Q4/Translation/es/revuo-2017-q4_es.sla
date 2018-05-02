@@ -17,16 +17,13 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <HYPHEN/>
         <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Open Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="English"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-1" PDLanguage="-1" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="PT Sans Bold"/>
-            <Fonts Name="PT Sans Bold Italic"/>
             <Fonts Name="PT Sans Italic"/>
             <Fonts Name="PT Sans Regular"/>
-            <Subset Name="Arial Regular"/>
-            <Subset Name="Arimo Regular"/>
             <Subset Name="Bebas Neue Regular"/>
             <Subset Name="Cooper Hewitt Medium"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -249,13 +246,13 @@
             <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="sin embargo, de ninguna manera pretende ser comprensible."/>
             <breakline/>
             <para ALIGN="0" LINESP="13.6" OpticalMargins="0"/>
-            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="En el 2017 vimos la adición de las Transacciones Confidenciales de Anillo(Ring Confidential Transactions) a la cadena principal de Monero, primero como opción y a partir de septiembre obligatorias en cada transaccion. En la bifurcación de septiembre también se incrementaron el tamaño de los anillos a 5 como mínimo. Ahora damos por hecho que el ocultamiento del monto de las transacciones es parte de la experiencia de Monero, pero hace menos de un año este no era el caso. Un gran desafío fue el descubrimiento de un error critico por parte un miembro del Laboratorio de Investigación de Monero que afecto a todas las monedas basadas en CryptoNote. Esto no solo requirió un parche en el código de Monero, sino además de la divulgación responsable hacia otras monedas basadas en el mismo protocolo. Esto se llevó a cabo de manera ejemplar en la cadena de bloques de Monero sin causar ningún tipo de daño. Otros eventos significativos incluyen el rediseño de la url https://getmonero.org/ y la salida de la versión beta de la GUI. ¿Que traerá el futuro? El 2017 ha visto la investigación y el desarrollo de algunas de las actualizaciones más importantes para el futuro del proyecto, incluidas las pruebas de bala(bulletproofs), transacciones con multifirmas(multi-signature) y "/>
+            <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="En el 2017 vimos la adición de las Transacciones Confidenciales de Anillo(Ring Confidential Transactions) a la cadena principal de Monero, primero como opción y a partir de septiembre obligatorias en cada transaccion. En la bifurcación de septiembre también se incrementaron el tamaño de los anillos a 5 como mínimo. Ahora damos por hecho que el ocultamiento de las cantidades de las transacciones es parte de la experiencia de Monero, pero hace menos de un año este no era el caso. Un gran desafío fue el descubrimiento de un error critico por parte un miembro del Laboratorio de Investigación de Monero que afecto a todas las monedas basadas en CryptoNote. Esto no solo requirió un parche en el código de Monero, sino además de la divulgación responsable hacia otras monedas basadas en el mismo protocolo. Esto se llevó a cabo de manera ejemplar en la cadena de bloques de Monero sin causar ningún tipo de daño. Otros eventos significativos incluyen el rediseño de la url https://getmonero.org/ y la salida de la versión beta de la GUI. ¿Que traerá el futuro? El 2017 ha visto la investigación y el desarrollo de algunas de las actualizaciones más importantes para el futuro del proyecto, incluidas las pruebas de bala(bulletproofs), transacciones con multifirmas(multi-signature) y "/>
             <para ALIGN="4" LINESP="13.6" OpticalMargins="0"/>
             <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="el continuo desarrollo del proyecto Kovri."/>
             <breakline/>
             <para ALIGN="0" LINESP="13.6" OpticalMargins="0"/>
             <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="Por el lado de la comunidad, ha habido un aumento significativo. Este crecimiento se ha extendido a través de las comunidades de"/>
-            <ITEXT FONT="Arial Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH=" "/>
+            <ITEXT FONT="Open Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH=" "/>
             <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="Monero de una manera admirable, con la celebración de reuniones regulares y The Monero Coffe Chat. Un aspecto importante del crecimiento de la comunidad, han sido  "/>
             <para ALIGN="3" LINESP="13.6" OpticalMargins="0"/>
             <ITEXT FONT="PT Sans Regular" FONTSIZE="10" FCOLOR="Black" KERN="-1" CH="las reuniones (meet-ups) que se celebran a nivel mundial."/>
@@ -552,14 +549,14 @@
             <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" BASEO="25" KERN="10" CH="Videos Educativos"/>
             <para ALIGN="3" LINESP="16"/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" BASEO="0" KERN="0" CH="Savandra"/>
-            <ITEXT FONTSIZE="10" BASEO="0" KERN="0" CH=" continua trabajando con miembros de la comunidad para que crear videos fáciles de entender y accesibles para los recién llegados. El video de Kovri se lanzó hace muy poco, después de meses de trabajo, y el guión para involucrarse a Monero está en camino. Estos videos se suman a los ya existentes de Monero basics, stealth addresses, firmas de anillos y RingCT."/>
+            <ITEXT FONTSIZE="10" BASEO="0" KERN="0" CH=" continua trabajando con miembros de la comunidad para que crear videos fáciles de entender y accesibles para los recién llegados. El video de Kovri se lanzó hace muy poco, después de meses de trabajo, y el guión para involucrarse a Monero está en camino. Estos videos se suman a los ya existentes de Monero basics, stealth addresses, firmas círculares y RingCT."/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3" LINESP="13"/>
             <ITEXT FONT="Cooper Hewitt Medium" FONTSIZE="12" BASEO="25" KERN="10" CH="Kit de reuniones para Monero"/>
             <para ALIGN="3" LINESP="16"/>
             <ITEXT FONTSIZE="10" CH="En una reunión, en el espacio de lluvia de ideas, "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="serhack"/>
-            <ITEXT FONTSIZE="10" CH=" sugirió la creación de un “kit de reuniones” para dar a grupos interesados que quisieran conocer más sobre Monero. Esto resultó en el trabajo de todo un mes concluyendo con los materiales necesarios. Incluye monederos de papel y actividades que muestran el uso de los monederos, cubiertas para cámaras web, stickers, infografías y folletos de mano. El proyecto fue financiado por donantes a través del Forum Funding System. Uno de los colaboradores,"/>
+            <ITEXT FONTSIZE="10" CH=" sugirió la creación de un “kit de reuniones” para dar a grupos interesados que quisieran conocer más sobre Monero. Esto resultó en el trabajo de todo un mes concluyendo con los materiales necesarios. Incluye monederos de papel y actividades que muestran el uso de los monederos, cubiertas para cámaras web, stickers, infografías y folletos de mano. El proyecto fue financiado por donantes a través del Sistema de financiación colectivo - SFC. Uno de los colaboradores,"/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH=" Justin"/>
             <ITEXT FONTSIZE="10" CH=", distribuyo estos kits a varias organizaciones alrededor de los Estados Unidos."/>
             <para ALIGN="3" LINESP="13"/>
@@ -577,7 +574,7 @@
             <para ALIGN="3" LINESPMode="0" LINESP="16"/>
             <ITEXT FONTSIZE="10" CH="En el último periodo del año pudimos apreciar el ingreso al proyecto de "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
-            <ITEXT FONTSIZE="10" CH=" el colaborador de la página web, como director asistente. Financiado por el Forum Funding System - FSS (Sistema de financiamiento), "/>
+            <ITEXT FONTSIZE="10" CH=" el colaborador de la página web, como director asistente. Financiado por el Forum Funding System - FFS (Sistema de financión colectivo - SFC), "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="rehrar"/>
             <ITEXT FONTSIZE="10" CH=" es el responsable del mantenimiento de la página web (una actualizada página web para Kovri viene en camino y debe estar en funcionamiento para inicios del 2018), las extensiones de desarrollo, educación y el apoyo al grupo de traductores. "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="Rehrar"/>
@@ -632,7 +629,7 @@
             <para ALIGN="3" LINESP="16"/>
             <ITEXT FONTSIZE="10" CH="En agosto 19 del 2017, "/>
             <ITEXT FONT="PT Sans Bold" FONTSIZE="10" CH="micheal"/>
-            <ITEXT FONTSIZE="10" CH=", posteo una propuesta para la fabricación de un monedero físico en el Forum Funding System (FFS). Hasta este punto, pese al desarrollo que le han hecho grandes proveedores al monedero físico, Monero no ha tenido ningun soporte de parte de ellos. Sin embargo, el tener un monedero físico completamente de fuentes abiertas fue tan atractivo que la propuesta fue financiada en muy corto tiempo."/>
+            <ITEXT FONTSIZE="10" CH=", posteo una propuesta para la fabricación de un monedero físico en el Sistema de financiación colectivo (SFC). Hasta este punto, pese al desarrollo que le han hecho grandes proveedores al monedero físico, Monero no ha tenido ningun soporte de parte de ellos. Sin embargo, el tener un monedero físico completamente de fuentes abiertas fue tan atractivo que la propuesta fue financiada en muy corto tiempo."/>
             <para ALIGN="3" LINESP="13"/>
             <para ALIGN="3" LINESP="13"/>
             <ITEXT FONTSIZE="10" CH="Micheal aprovecho los recursos de Monero para los equipos de trabajo y estableció un sitio para el monedero en Taiga, que al momento de escribir esta edición, ha atraído a 33 contribuyentes en los que se aprecian desde mecánicos, diseñadores, hasta quienes realizan las pruebas. Todas las actualizaciones del proyecto pueden ser vistas en las peticiones de Taiga de Monero."/>
